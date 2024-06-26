@@ -13,7 +13,7 @@ import os
 import glob
 import random
 
-# initial parameters
+# parameters
 epochs = 100
 initial_learning_rate = 1e-3
 batch_size = 64
