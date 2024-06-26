@@ -304,10 +304,6 @@ if __name__ == "__main__":
     app.mainloop()
 
 
-
-
-
-
 # ## Decreased quality, smaller size 15 mins - 100mb
 # import tkinter as tk
 # from tkinter import messagebox, filedialog, ttk
